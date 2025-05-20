@@ -93,7 +93,14 @@ The final view contains the following grouped data:
 - Verified data accuracy using `INTERSECT` and `EXCEPT` SQL tests.
 
 ---
+## 👨‍💻 Contributors
 
+- Sahand Farhangi  
+- Narotam Dhaliwal  
+- Warisha Saad  
+- Alekhya Erikipati  
+
+---
 ## 🏷️ Tags
 
 `SQL` `Customer360` `Data Warehousing` `MSSQL` `ETL` `CTE` `Analytics` `Retail` `Window Functions`
